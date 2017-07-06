@@ -12,7 +12,7 @@ Modified the way this loads so it doesn't interfere.  Must call the loader scrip
 2008-05-14:
 Modified to handle both heights and WIDTHS, see the array matchRowSet below
 2008-03-15: 
-Modified to match columns for multiple areas by Samuel Fullman sam.fullman@verizon.net
+Modified to match columns for multiple areas by Samuel Fullman sam-git@compasspointmedia.com
 Just declare the classnames for EACH column group that you want to match up - these can be declared on the page instead.
 NOTE: padding declared on the div may cause unexpected results based on your box model
 */
